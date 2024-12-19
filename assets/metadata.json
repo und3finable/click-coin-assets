@@ -1,8 +1,8 @@
 {
     "name": "Click Coin",
     "symbol": "CLCK",
-    "uri": "https://raw.githubusercontent.com/und3finable/click-coin-assets/main/assets/metadata/metadata.json",
-    "image": "https://raw.githubusercontent.com/und3finable/click-coin-assets/main/assets/icons/click-coin-icon.png",
+    "uri": "https://raw.githubusercontent.com/und3finable/click-coin-assets/main/assets/metadata.json",
+    "image": "https://raw.githubusercontent.com/und3finable/click-coin-assets/main/assets/click-coin-logo.png",
     "attributes": [
       { "trait_type": "Purpose", "value": "Utility" }
     ]
